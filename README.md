@@ -25,7 +25,7 @@ FontAwesome Icons
 
 📷 Screenshots
 
-(Add a screenshot of your project here — just drag and drop an image into the README on GitHub)
+![Uploading image.png…]()
 
 🛠️ Setup & Usage
 
