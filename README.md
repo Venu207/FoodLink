@@ -25,7 +25,8 @@ FontAwesome Icons
 
 📷 Screenshots
 
-![Uploading image.png…]()
+<img width="1444" height="918" alt="Screenshot 2025-08-17 164854" src="https://github.com/user-attachments/assets/68cefd98-2c2d-4a1c-969e-78c8f0385f8f" />
+
 
 🛠️ Setup & Usage
 
