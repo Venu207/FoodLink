@@ -30,6 +30,7 @@ FontAwesome Icons
 🛠️ Setup & Usage
 
 Clone the repository
+[ Click and Scroll down ]
 
 👉 Live Demo: [FoodMunch](https://venu207.github.io/FoodMunch/)
 
