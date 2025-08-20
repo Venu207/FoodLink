@@ -1,7 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 
-body {
-  background-color: lightblue !important;
+.watermarked {
+    position: relative;
+}
+
+.watermarked::after {
+    content: "Developer: Venu";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-20deg);
+    font-size: 60px;
+    color: rgba(0, 0, 0, 0.08);
+    /* light transparent */
+    font-weight: bold;
+    white-space: nowrap;
+    pointer-events: none;
+    /* ensures watermark doesn't block buttons */
 }
 
 .custom-button {
