@@ -2,7 +2,7 @@
 
 A responsive food ordering website built with HTML, CSS, Bootstrap, and hosted on GitHub Pages.
 
-👉 Live Demo: [FoodMunch](https://venu207.github.io/FoodMunch/)
+👉 Live Demo: (https://venu207.github.io/FoodLink/))
 
 📌 Features
 
