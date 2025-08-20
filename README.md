@@ -2,7 +2,7 @@
 
 A responsive food ordering website built with HTML, CSS, Bootstrap, and hosted on GitHub Pages.
 
-👉 Live Demo: (https://venu207.github.io/FoodLink/))
+👉 Live Demo: (https://venu207.github.io/FoodLink/)
 
 📌 Features
 
