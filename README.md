@@ -34,12 +34,12 @@ FontAwesome Icons
 Clone the repository
 [ Click and Scroll down ]
 
-👉 Live Demo: [FoodMunch](https://venu207.github.io/FoodMunch/)
+👉 Live Demo: https://venu207.github.io/FoodLink/
 
 
 Open index.html in your browser
 
-Or view it live 👉 [Click Here](https://venu207.github.io/FoodMunch/)
+Or view it live 👉 https://venu207.github.io/FoodLink/
 
 📄 License
 
